@@ -1,0 +1,9 @@
+cycler==0.10.0
+matplotlib==2.1.2
+numpy==1.14.1
+pandas==0.22.0
+pyparsing==2.2.0
+python-dateutil==2.6.1
+pytz==2018.3
+seaborn==0.8.1
+six==1.11.0
